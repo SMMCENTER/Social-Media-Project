@@ -1,27 +1,36 @@
 ---
+title: Social Amplification
 layout: default
-title: Amplification Page | Carbon Free Footprint Project
+navigation_weight: 8
 ---
-<hgroup class="text-left">
-	<h3>Amplification and Stimulation</h3>
-</hgroup>
-	<hr class="green-groove" />
-	
-<p>
-	<span>Welcome! This is the Amplification page of the <b>Carbon Free Footprint</b> project.</span>
-</p>
+# Social Amplification
 
-<p>
-	<span>This page has been tested for mobile responsiveness on a Galaxy S5 Smartphone emulator at a width of 360px.</span>
-</p>
-	<hr class="green-groove" />
+{{ site.tagline }}
 
-<h4>Pick-Me Up</h4>
+{% include toc-flammarion.md %}
 
-<p>
-	<span>More to come ...</span>
-</p>
+## Subtitle Begin Template Dtd 12-31-17
 
-<footer class="page-footer">
-	{% include footer.htm %}
-</footer>
+Place the introducing line of text ie.) the 'tagline' here ...
+
+## Amplification and Stimulation
+
+More to come ...
+
+## Last Subtitle
+
+Place the introducing line of text ie.) the 'tagline' here ...
+
+```liquid
+{% raw %}
+Enjoy the successful output!
+{% endraw %}
+```
+
+{% include brackets-ide.md %}
+
+{% include sources-and-uses.md %}
+
+### External Sources
+
+- The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
