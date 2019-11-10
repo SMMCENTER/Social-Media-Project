@@ -3,7 +3,7 @@ title: Social Algiatry
 layout: default
 navigation_weight: 8
 ---
-# Social Algiatry
+## Social Algiatry
 
 {{ site.tagline }}
 
