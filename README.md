@@ -1,3 +1,3 @@
-# Social-Media-Lessons-Project
+# Social-Media-Project
 
-A Git Hub repo of Social Media Lessons
+A Git Hub repo of Social Media Lessons and Code Templates

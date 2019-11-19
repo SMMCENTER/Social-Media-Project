@@ -1,13 +1,14 @@
 ---
 title: Social Media
 layout: default
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+description: Place the intro paragraph ie.) the 'synopsis' here ...
+repo: Social-Media-Project
+ver_date: 11-19-19
 navigation_weight: 8
+categories: page
 ---
-# Social Media
-
-{{ site.tagline }}
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Code Block Time
 
@@ -33,14 +34,14 @@ console.timeEnd(programTimer,"Square It Time");
 
 Place the introducing line of text ie.) the 'tagline' here ...
 
+**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+
+### Raw Code Block
+
 ```liquid
 {% raw %}
 Enjoy the successful output!
 {% endraw %}
 ```
 
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Social-Media/Source-Social-Media-Links.htm){:title="Click to Visit the Source Links page of the Social-Media Lessons Project at GitHub pages"}{:target="_blank"} page of the Social-Media Lessons Project. Published by © 2000 - 2018 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include patreon-link.md %}

@@ -1,13 +1,14 @@
 ---
 title: Social Algiatry
 layout: default
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+description: Place the intro paragraph ie.) the 'synopsis' here ...
+repo: Social-Media-Project
+ver_date: 11-19-19
 navigation_weight: 8
+categories: page
 ---
-## Social Algiatry
-
-{{ site.tagline }}
-
-{% include toc-flammarion.md %}
+{% include toc.md %}
 
 ## Algiatry and Pain Relief
 
@@ -17,16 +18,14 @@ Welcome! This is the Algiatry page of the **Carbon Free Footprint** project.
 
 Place the introducing line of text ie.) the 'tagline' here ...
 
+**Note**. The above synopsis was derived from an article written by Blank [[2](#BLANK){:.red}].
+
+### Raw Code Block
+
 ```liquid
 {% raw %}
 Enjoy the successful output!
 {% endraw %}
 ```
 
-{% include brackets-ide.md %}
-
-{% include sources-and-uses.md %}
-
-### External Sources
-
-- The [Project Source Links](https://mminail.github.io/Shell/Source-Shell-Links.htm){:title="Click to Visit the Source Links page of the Shell Lessons Project at GitHub pages"}{:target="_blank"} page of the Shell Lessons Project. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:title="Click to Visit the Concept Library of the Medical Marijuana Initiative of North America - International Limited, an Arizona Benefit Corporation"}{:target="_blank"}.
+{% include patreon-link.md %}
